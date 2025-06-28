@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">🏴‍☠️ Ahoy, me hearties! I'm AvatarG</h1>
+<p align="center">
+  <em>Digital buccaneer sailing the vast seas of open source with a keyboard cutlass in hand.</em>
+</p>
 
-<!--
-**AvatarG/AvatarG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧭 My Treasure Map
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+Tech Stack:
+  - Languages: [JavaScript, Python, TypeScript, HTML, CSS]
+  - Frameworks: [React, Node.js, Express, Django]
+  - Tools: [Git, Docker, Webpack, VSCode]
+  - Databases: [MongoDB, PostgreSQL, SQLite]
+  - Misc: [REST APIs, GraphQL, Vite, TailwindCSS]
