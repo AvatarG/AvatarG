@@ -59,14 +59,10 @@ git push --force // when the seas get rough
 
 ### ☠️ Connect With Me Across the Digital Seas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/yourhandle)  
-[![Website](https://img.shields.io/badge/Portfolio-222222?logo=github&logoColor=white)](https://yourwebsite.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/AvatarG)  
+[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/AvatarG)  
+[![Website](https://img.shields.io/badge/Portfolio-222222?logo=github&logoColor=white)](https://AvatarG.dev)
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9jExd1Qv9VzXYdy/giphy.gif" width="200" alt="Pirate coding" />
-  <br />
-  <strong>May your merges be clean and your pull requests be accepted. 🏴‍☠️</strong>
 </div>
